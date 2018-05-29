@@ -1,0 +1,21 @@
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+img {
+  width: 50%;
+}
+
+.btn1 {
+  background-color: purple;
+  color: white;
+}
+.btn2 {
+  background-color: yellow;
+}
